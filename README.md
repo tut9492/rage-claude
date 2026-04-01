@@ -4,6 +4,8 @@
 
 Export your Claude conversations → drop the file → get your top 3 rage quotes, rage moment count, and zen score out of 100 → download a shareable card.
 
+
+Live demo: https://rage-claude.vercel.app
 **100% local. Your data never leaves your browser.**
 
 ---
