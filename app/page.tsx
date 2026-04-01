@@ -148,6 +148,20 @@ export default function Home() {
         </p>
       </div>
 
+      {/* How-to video */}
+      <div className="flex flex-col items-center px-4 pb-10 w-full">
+        <div className="w-full max-w-xl">
+          <p className="text-white/30 text-xs tracking-widest mb-3 text-center">HOW TO EXPORT YOUR CHATS</p>
+          <video
+            src="/how-to-export.mp4"
+            controls
+            playsInline
+            className="w-full rounded-2xl"
+            style={{ border: '1px solid rgba(255,255,255,0.06)' }}
+          />
+        </div>
+      </div>
+
       {/* Upload area */}
       <div className="flex flex-col items-center px-4 pb-16 gap-4 w-full">
         <div className="w-full max-w-xl">
